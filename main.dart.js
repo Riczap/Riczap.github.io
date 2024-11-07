@@ -59582,7 +59582,7 @@ if(r==null)r=B.v
 q.rL(A.aj6(null,r,!0,null,new A.a48(this,b),a,null,s,B.ur,!0,t.z))},
 VS(a,b){this.aw(new A.a45(this,b,a))},
 L(a){var s=this,r=null,q=t.nA
-return new A.tK(new A.pl(B.Kj,0,new A.HI(r,r,1/0,56),r),A.a6x(A.a6B(A.b([B.Kh,B.Gg,A.a80("Select the symbol that correspond to each variable (letter)",A.nU(r,r,B.iV,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.ej),B.ub,A.am9(A.b([s.u3(a,"X",s.Q),s.u3(a,"Y",s.as),s.u3(a,"Z",s.at)],q),B.be,B.fP,B.dP),B.ub,A.a80(s.y,B.IB,r)],q),B.be,B.fP,B.dP),r,r),r)},
+return new A.tK(new A.pl(B.Kj,0,new A.HI(r,r,1/0,56),r),A.a6x(A.a6B(A.b([B.Ki,B.Gg,A.a80("Select the symbol that corresponds to each variable (letter)",A.nU(r,r,B.iV,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.ej),B.ub,A.am9(A.b([s.u3(a,"X",s.Q),s.u3(a,"Y",s.as),s.u3(a,"Z",s.at)],q),B.be,B.fP,B.dP),B.ub,A.a80(s.y,B.IB,r)],q),B.be,B.fP,B.dP),r,r),r)},
 u3(a,b,c){var s=null
 return A.a6B(A.b([A.aa7(s,c!=null?A.ab7("assets/"+c,B.vi,s,s):A.ab3(B.yJ,B.iV,s,50),B.f7,s,80,s,s,80),B.Gf,new A.zW(new A.a44(this,a,b),s,s,s,s,s,s,!1,s,A.a80(b,s,s),s)],t.nA),B.be,B.bV,B.dP)}}
 A.a48.prototype={
@@ -59591,7 +59591,7 @@ p=A.rr(new A.aD(q,p),new A.a47(r,this.b,a),p.h("p.E"),t.xS)
 p=A.X(p,!0,A.i(p).h("p.E"))
 r=A.aG([null,0],t.st,t.S)
 q=p.length
-return new A.mf(B.Ki,A.acw(new A.Av(new A.YA(3,10,10,1),new A.Yw(!0,!0,!0,p,r),s,B.aX,!1,s,s,B.v_,!0,s,q,B.aK,B.Et,s,B.aH,B.ae,s),300,300),s)},
+return new A.mf(B.Kh,A.acw(new A.Av(new A.YA(3,10,10,1),new A.Yw(!0,!0,!0,p,r),s,B.aX,!1,s,s,B.v_,!0,s,q,B.aK,B.Et,s,B.aH,B.ae,s),300,300),s)},
 $S:394}
 A.a47.prototype={
 $1(a){var s=null
@@ -63854,9 +63854,9 @@ B.Jv=new A.o(!0,B.z,null,"Roboto",B.A,null,null,null,null,null,null,null,null,nu
 B.IY=new A.o(!0,B.m,null,"Roboto",B.A,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackHelsinki labelMedium",null,null,null,null)
 B.J7=new A.o(!0,B.m,null,"Roboto",B.A,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackHelsinki labelSmall",null,null,null,null)
 B.Kg=new A.cY(B.JO,B.Hu,B.Ig,B.IX,B.J9,B.H1,B.HV,B.H5,B.IL,B.Jl,B.Im,B.Jm,B.Jv,B.IY,B.J7)
+B.Kh=new A.jt("Select a Symbol",null,null,null,null)
 B.Ir=new A.o(!0,null,null,null,null,null,24,B.fq,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Kh=new A.jt("Terminus Code Calculator",null,B.Ir,null,null)
-B.Ki=new A.jt("Select an Image",null,null,null,null)
+B.Ki=new A.jt("Terminus Code Calculator",null,B.Ir,null,null)
 B.Kj=new A.jt("",null,null,null,null)
 B.Mq=new A.ZP(0,"system")
 B.Kk=new A.uF(null)
